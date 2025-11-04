@@ -20,5 +20,9 @@
 
 ---
 # tools
-* [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
-* [ldoceonline](https://www.ldoceonline.com/dictionary/watch)
+* [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) 浮点转换
+* [ldoceonline](https://www.ldoceonline.com/dictionary/watch) 朗文在线
+* [goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) 词典app，支持多种格式。
+* [freemdict](https://freemdict.com/) 字典文件下载
+* [PixPin](https://pixpin.cn/) 截图，ocr
+
