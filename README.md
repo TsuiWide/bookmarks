@@ -26,4 +26,6 @@
 * [goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) 词典app，支持多种格式。
 * [freemdict](https://freemdict.com/) 字典文件下载
 * [PixPin](https://pixpin.cn/) 截图，ocr
+* [图形计算器](https://www.desmos.com/calculator?lang=zh-CN) 输入函数，输出对应的图形。
+* [colorhex](https://johndecember.com/html/spec/colorhex.html) 颜色对应的hex值
 
