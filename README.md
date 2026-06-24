@@ -20,6 +20,7 @@
 
 ---
 # tools
+* [IEEE 754-Style Floating-Point Converter](https://flop.evanau.dev/brainfloat-converter) 各种浮点格式转换，可以自定义。
 * [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) 浮点转换
 * [ldoceonline](https://www.ldoceonline.com/dictionary/watch) 朗文在线
 * [goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) 词典app，支持多种格式。
